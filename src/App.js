@@ -26,6 +26,7 @@ class App extends Component {
       <input type="search"
              placeholder="search a monster" 
              onChange={e=>  this.setState({ searchField: e.target.value })}/>
+      <h1>list</h1>
       <CardList monsters={this.state.monsters}>
       </CardList>
 
