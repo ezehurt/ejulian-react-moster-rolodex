@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ezehurt.github.io/ejulian-react-monster-rolodex",
+  "homepage": "https://ezehurt.github.io/ejulian-react-moster-rolodex/",
   "dependencies": {
     "@microsoft/applicationinsights-web": "^2.6.0",
     "@testing-library/jest-dom": "^5.11.9",
